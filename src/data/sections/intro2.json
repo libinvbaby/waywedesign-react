@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Unique",
+      "second": "brand Stories"
+    },
+    "image": "/img/slid/banner-1.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "Digital",
+      "second": "Design Awards"
+    },
+    "image": "/img/slid/banner-2.jpg"
+  },
+  {
+    "id": 3,
+    "title": {
+      "first": "ROI-Focused",
+      "second": "Digital Marketing Company"
+    },
+    "image": "/img/slid/banner-3.jpg"
+  }
+]

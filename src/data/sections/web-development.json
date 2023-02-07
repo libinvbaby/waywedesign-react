@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "icon": "pe-7s-gleam",
+      "title": "Mobile Responsive Website",
+      "details": "Our Specialized team has adopted the mobile-friendly web design and development methodology."
+    },
+    {
+      "id": 2,
+      "icon": "pe-7s-graph2",
+      "title": "SEO Friendly",
+      "details": "Appear on Search Engines with high-quality Snippets and faster loading time than your competitors’ websites."
+    },
+    {
+      "id": 3,
+      "icon": "pe-7s-check",
+      "title": "High Security Website",
+      "details": "Make your website safe, protective and automatic scans on your website."
+    },
+    {
+      "id": 4,
+      "icon": "pe-7s-photo-gallery",
+      "title": "Content Management System",
+      "details": "Your website shall be developed by WordPress & Divi Page Builder."
+    },
+    {
+      "id": 5,
+      "icon": "pe-7s-display2",
+      "title": "Unique Design",
+      "details": "Our team develop custom designs based on the unique visual ideas of our clients"
+    },
+    {
+      "id": 6,
+      "icon": "pe-7s-note ",
+      "title": "After Support",
+      "details": "We are there to help and support you with your queries and further updates to the website."
+    }
+  ]
